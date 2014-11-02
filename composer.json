@@ -1,5 +1,5 @@
 {
-	"name": "schlaefer/saito-userranks",
+	"name": "schlaefer/saito-nsfwbadge",
 	"description": "'Not-Safe-For-Work'-Badge for Saito forum",
 	"type": "cakephp-plugin",
 	"keywords": ["saito", "plugin"],
