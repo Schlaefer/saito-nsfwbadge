@@ -1,0 +1,29 @@
+{
+	"name": "schlaefer/saito-userranks",
+	"description": "'Not-Safe-For-Work'-Badge for Saito forum",
+	"type": "cakephp-plugin",
+	"keywords": ["saito", "plugin"],
+	"homepage": "https://github.com/Schlaefer/saito-nsfwbadge",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Schlaefer",
+			"homepage": "http://siezi.com",
+			"role": "Author"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/Schlaefer/saito-nsfwbadge/issues",
+		"forum": "http://saito.siezi.com/forum/",
+		"source": "https://github.com/Schlaefer/saito-nsfwbadge"
+	},
+	"require": {
+    "composer/installers": "*"
+	},
+  "extra": {
+    "branch-alias": {
+        "dev-master": "1.0.x-dev"
+    },
+    "installer-name": "NsfwBadge"
+  }
+}
